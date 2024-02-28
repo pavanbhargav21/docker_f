@@ -1,0 +1,3 @@
+
+
+Docker deamon has to be run always with root user. Considered as one of the disadvantages with docker.
